@@ -1,16 +1,16 @@
-# The Rust Programming Language
+# Die Rust Programmiersprache
 
-[Foreword](foreword.md)
-[Introduction](ch00-00-introduction.md)
+[Vorwort](foreword.md)
+[Einleitung](ch00-00-introduction.md)
 
-## Getting started
+## Los gehts
 
-- [Getting Started](ch01-00-getting-started.md)
+- [Los gehts](ch01-00-getting-started.md)
     - [Installation](ch01-01-installation.md)
-    - [Hello, World!](ch01-02-hello-world.md)
-    - [Hello, Cargo!](ch01-03-hello-cargo.md)
+    - [Hallo, Welt!](ch01-02-hello-world.md)
+    - [Hallo, Cargo!](ch01-03-hello-cargo.md)
 
-- [Programming a Guessing Game](ch02-00-guessing-game-tutorial.md)
+- [Ein Ratespiel programmieren](ch02-00-guessing-game-tutorial.md)
 
 - [Common Programming Concepts](ch03-00-common-programming-concepts.md)
     - [Variables and Mutability](ch03-01-variables-and-mutability.md)
