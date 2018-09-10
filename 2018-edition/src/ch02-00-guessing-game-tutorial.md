@@ -1,10 +1,9 @@
-# Programming a Guessing Game
+# Ein Ratespiel programmieren
 
-Let’s jump into Rust by working through a hands-on project together! This
-chapter introduces you to a few common Rust concepts by showing you how to use
-them in a real program. You’ll learn about `let`, `match`, methods, associated
-functions, using external crates, and more! The following chapters will explore
-these ideas in more detail. In this chapter, you’ll practice the fundamentals.
+In diesem Kapitel werden wir einige grundlegende Konzepte in Rust kennenlernen.
+Du wirst etwas über `let`, `match`, Methoden, Funktionen, Erweiterungen (crates) 
+und noch mehr lernen! In diesem Kapitel werden wir all dies im Detail kennen 
+lernen und die Grundlagen üben.
 
 We’ll implement a classic beginner programming problem: a guessing game. Here’s
 how it works: the program will generate a random integer between 1 and 100. It
